@@ -1,8 +1,4 @@
-Install-Module Plaster -Scope CurrentUser
-
-Install-Module Pester -Scope CurrentUser
-
-Get-Command -Module Installed
+Plaster Pester psake
 
 
 
